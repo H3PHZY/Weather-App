@@ -1,4 +1,5 @@
 Weather App 🌦️
+
 This weather application allows users to search for real-time weather conditions by city name. It uses the OpenWeatherMap API to fetch data such as temperature, humidity, wind speed, and weather conditions, displaying the results in an intuitive and user-friendly interface.
 
 Features
